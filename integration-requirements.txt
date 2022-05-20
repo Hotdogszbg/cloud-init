@@ -28,3 +28,4 @@ azure-mgmt-compute==7.0.0
 azure-mgmt-network==5.0.0
 azure-mgmt-resource==4.0.0
 azure-mgmt-storage==6.0.0
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability

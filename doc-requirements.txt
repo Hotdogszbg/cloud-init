@@ -1,5 +1,5 @@
 doc8
 m2r
-sphinx<2
+sphinx<3.3.0
 sphinx_rtd_theme
 pyyaml
